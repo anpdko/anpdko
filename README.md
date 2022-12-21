@@ -4,7 +4,7 @@
   <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 LinkedIn
-<br />
+</br>
 
 - 🔭 I am currently working on university projects
 - 🌱 I'm currently studying for a master's degree. computer science
