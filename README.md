@@ -1,3 +1,7 @@
+<a href="https://wakatime.com/@f613c350-4b98-4ce4-8e5c-d14f7cf322c0">
+  <img src="https://wakatime.com/badge/user/f613c350-4b98-4ce4-8e5c-d14f7cf322c0.svg" alt="Total time coded since May 25 2023" />
+</a>
+
 <a href="https://linkedin.com/in/tomas-ondrejka](https://www.linkedin.com/in/andrii-pryadko-a897211b2/">
   <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
