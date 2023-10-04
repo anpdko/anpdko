@@ -7,8 +7,9 @@ LinkedIn
 
 <div>
   <h2> Hi there 👋</h2>
+  <div>Total time coded since May 25 2023</div>
   <a href="https://wakatime.com/@f613c350-4b98-4ce4-8e5c-d14f7cf322c0">
-    <img src="https://wakatime.com/badge/user/f613c350-4b98-4ce4-8e5c-d14f7cf322c0.svg" alt="Total time coded since May 25 2023" /> Total time coded since May 25 2023
+    <img src="https://wakatime.com/badge/user/f613c350-4b98-4ce4-8e5c-d14f7cf322c0.svg" alt="Total time coded since May 25 2023" />
   </a>
   <ul>
     <li>🔭 I am currently working on university projects</li>
